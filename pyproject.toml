@@ -1,0 +1,9 @@
+[project]
+name = "tinyagent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "illustrated-agents[jupyter]>=0.1.1",
+]
